@@ -11,3 +11,4 @@ Wszystkie tekstury ważyły za dużo, aby zawarzeć je w repozytorium, więc zos
 Wszystkie wykorzystane tekstury są w domenie publicznej (CC0) i pochodzą z Poly Haven. Wyjątkiem jest tekstura gałązki, która pochodzi z OpenGameArt.org, ale również znajduje się w domenie publicznej.
 
 ## Zrzuty ekranu
+<img src="https://github.com/abzXYZ/Systemy-Animacji/blob/main/lab_06/teren_06.png" />
