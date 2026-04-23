@@ -4,7 +4,7 @@
 Do sceny z biomechaniczną rośliną z poprzednich zajęć laboratoryjnych dodane zostały światła, oraz dodatkowe efekty do tekstur (np. Subsurface Weight, tekstury generowane z Noise, itp.).
 
 ## Uruchomienie
-Pobrać plik `roslin.blend` i otworzyć go w Blenderze.
+Pobrać pliki i otworzyć plik `roslin.blend` Blenderze.
 
 ## Uwagi
 Wszystkie wykorzystane tekstury są w domenie publicznej (CC0) i pochodzą z Poly Haven.
