@@ -8,3 +8,4 @@ Stworzony został biomechaniczny pająk z 4 odnóżami zawierający armature z I
 Pobrać plik `araña.blend` i otworzyć go w Blenderze.
 
 ## Render
+https://github.com/abzXYZ/Systemy-Animacji/blob/main/lab_10/chod_10.mp4
