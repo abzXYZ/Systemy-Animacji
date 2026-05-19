@@ -9,3 +9,7 @@ Pobrać plik `swiatozywiony12.blend` i otworzyć go w Blenderze.
 
 ## Uwagi
 Wszystkie wykorzystane tekstury są w domenie publicznej (CC0) i pochodzą z Poly Haven.
+
+## Render
+https://github.com/user-attachments/assets/8947c85d-3684-40c1-84ab-5c681dfe28d1
+
