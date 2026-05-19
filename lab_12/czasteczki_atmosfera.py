@@ -12,9 +12,9 @@ KLATKA_KONIEC = 125
 CZAS_ZYCIA_MIN = 40
 CZAS_ZYCIA_MAX = 80
 
-SREDNICA_CZASTECZKI = 0.04
-ZAKRES_EMISJI_XY = (-2.0, 2.0)      # X i Y wokół rośliny
-WYSOKOSC_EMISJI_Z = (0.0, 2.5)      # Z (wysokość)
+SREDNICA_CZASTECZKI = 0.01
+ZAKRES_EMISJI_XY = (-4.0, 4.0)      # X i Y wokół rośliny
+WYSOKOSC_EMISJI_Z = (0.0, 3.0)      # Z (wysokość)
 PREDKOSC_DRIFTU = 0.02
 SILA_WIATRU_X = 0.005
 AMPLITUDA_UNOSZENIA = 0.3
@@ -107,7 +107,7 @@ def przygotuj_material(nazwa=NAZWA_MATERIALU):
     output = nodes.new(type='ShaderNodeOutputMaterial')
     emission = nodes.new(type='ShaderNodeEmission')
     emission.inputs["Color"].default_value = (1.0, 0.95, 0.7, 1.0)
-    emission.inputs["Strength"].default_value = 2.0
+    emission.inputs["Strength"].default_value = 5.0
     output.location = (200, 0)
     emission.location = (0, 0)
     links.new(emission.outputs[0], output.inputs[0])
