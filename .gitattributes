@@ -1,0 +1,4 @@
+lab_15/src filter=lfs diff=lfs merge=lfs -text
+lab_15/assets filter=lfs diff=lfs merge=lfs -text
+lab_15/README.md filter=lfs diff=lfs merge=lfs -text
+lab_15/renders filter=lfs diff=lfs merge=lfs -text
