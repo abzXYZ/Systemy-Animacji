@@ -18,5 +18,15 @@ Brak
 - Autor: [Yury Misiyuk](https://sketchfab.com/Tim0)
 - Licencja: CC Attribution
 
+https://polyhaven.com/a/night_bridge
+
+https://polyhaven.com/a/withered_grass
+
+https://polyhaven.com/a/brick_moss_001
+
+https://polyhaven.com/a/concrete_layers_02
+
+https://polyhaven.com/a/asphalt_02
+
 ## Znane bugi i ograniczenia
 Nic nie ma więc nie ma i bugów
