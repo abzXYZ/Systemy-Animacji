@@ -18,7 +18,9 @@ Brak
 - Autor: [Yury Misiyuk](https://sketchfab.com/Tim0)
 - Licencja: CC Attribution
 
-https://polyhaven.com/a/night_bridge
+[Night Bridge](https://polyhaven.com/a/night_bridge)
+- Autor: [Sergej Majboroda](Sergej Majboroda)
+- Licencja: CC0
 
 https://polyhaven.com/a/withered_grass
 
@@ -28,8 +30,14 @@ https://polyhaven.com/a/concrete_layers_02
 
 https://polyhaven.com/a/asphalt_02
 
-https://polyhaven.com/a/pine_tree_01
+[Street Lamp](https://sketchfab.com/3d-models/street-lamp-152055979ddd48669529f5d4f5f3543c)
+- Autor: [Yni Viar](https://sketchfab.com/yni-viar)
+- Licencja: CC Attribution
 
-https://sketchfab.com/3d-models/street-lamp-152055979ddd48669529f5d4f5f3543c
+[Post soviet lowpoly buildings](https://sketchfab.com/3d-models/post-soviet-lowpoly-buildings-130d02982dd84cf99b938f5a668402d0)
+- Autor: [Mince](https://sketchfab.com/Mince)
+- Licencja: CC Attribution
 
-https://sketchfab.com/3d-models/post-soviet-lowpoly-buildings-130d02982dd84cf99b938f5a668402d0
+[Pharmacy](https://sketchfab.com/3d-models/pharmacy-b4b5c21b768447529d9d2d7385a68923)
+- Autor: [amirsoliman](https://sketchfab.com/amirsoliman)
+- Licencja: CC Attribution
