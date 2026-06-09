@@ -28,5 +28,8 @@ https://polyhaven.com/a/concrete_layers_02
 
 https://polyhaven.com/a/asphalt_02
 
-## Znane bugi i ograniczenia
-Nic nie ma więc nie ma i bugów
+https://polyhaven.com/a/pine_tree_01
+
+https://sketchfab.com/3d-models/street-lamp-152055979ddd48669529f5d4f5f3543c
+
+https://sketchfab.com/3d-models/post-soviet-lowpoly-buildings-130d02982dd84cf99b938f5a668402d0
