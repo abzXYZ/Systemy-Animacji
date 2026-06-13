@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 13</title>
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://cdn.jsdelivr.net/npm/three@v0.160.0/build/three.module.js",
+                "three/addons/": "https://cdn.jsdelivr.net/npm/three@v0.160.0/examples/jsm/"
+            }
+        }
+</script>
+<style>
+    body{
+        background-color: #333;
+        color: white;
+        margin: 0;
+    }
+    canvas{
+        display: block;
+    }
+    #info{
+        background-color: rgba(0,0,0,0);
+        position: fixed;
+        margin: 1rem;
+    }
+</style>
+</head>
+<body>
+    <div id="info"></div>
+    <script type="module" src="/script.js"></script>
+</body>
+</html>
