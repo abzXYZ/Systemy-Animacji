@@ -1,13 +1,21 @@
 # Lab 15 - Projekt Końcowy
 
 ## Opis sceny
-Scena przedstawia wschodnioeuropejskie miasto......
+Animacja przedstawia perspektywę osoby wracającej do domu podczas deszczowej nocy we wschodnioeuropejskim mieście. Chciałem osiągnąć znajomy i spokojny klimat.
 
 ## Uruchomienie
-Pobrać plik `assets/scena.blend` i otworzyć go w Blenderze.
+Pobrać wszystkie pliki, a następnie otworzyć w Blenderze plik `assets/scena.blend`.
 
 ## Opis skryptu Python
-Brak
+Skrypt Python `animacja.py` wykorzystany został do animacji migotania neonu (znaku apteki). Po uruchomieniu usuwa on animacje przypisane do materiału neonu, a następnie dodaje klatki kluczowe z mrugnięciami o losowej intensywności w losowych odstępach czasu.\
+Parametry do zmiany:
+- **NAZWA_MATERIALU** (nazwa materiału neonu)
+- **MIN_STRENGTH** (Minimalna intensywność mrugnięć neonu)
+- **MAX_STRENGTH** (Maksymalna intensywność mrugnięć neonu)
+- **MIN_ODSTEP** (Minimalny czas między mrugnięciami podany w klatkach)
+- **MAX_ODSTEP** (Maksymalny czas między mrugnięciami podany w klatkach)
+- **KLATKA_START** (Klatka początkowa animacji neonu)
+- **KLATKA_END** (Klatka końcowa animacji neonu)
 
 ## Zasoby
 [1995 Lada/VAZ 2107](https://sketchfab.com/3d-models/1995-ladavaz-2107-c94daeb210b244729d634975c9ed0c5b)
@@ -22,13 +30,21 @@ Brak
 - Autor: [Sergej Majboroda](Sergej Majboroda)
 - Licencja: CC0
 
-https://polyhaven.com/a/withered_grass
+[Withered Grass](https://polyhaven.com/a/withered_grass)
+- Autor: [Charlotte Baglioni](https://www.artstation.com/wyrine)
+- Licencja: CC0
 
-https://polyhaven.com/a/brick_moss_001
+[Brick Moss 001](https://polyhaven.com/a/brick_moss_001)
+- Autorzy: [Dimitrios Savva](https://polyhaven.com/all?a=Dimitrios%20Savva), [Rico Cilliers](https://www.artstation.com/rico_b3d)
+- Licencja: CC0
 
-https://polyhaven.com/a/concrete_layers_02
+[Concrete Laters 02](https://polyhaven.com/a/concrete_layers_02)
+- Autor: [Rob Tuytel](https://www.artstation.com/tuytel)
+- Licencja: CC0
 
-https://polyhaven.com/a/asphalt_02
+[Asphalt 02](https://polyhaven.com/a/asphalt_02)
+- Autor: [Rob Tuytel](https://www.artstation.com/tuytel)
+- Licencja: CC0
 
 [Street Lamp](https://sketchfab.com/3d-models/street-lamp-152055979ddd48669529f5d4f5f3543c)
 - Autor: [Yni Viar](https://sketchfab.com/yni-viar)
@@ -41,3 +57,6 @@ https://polyhaven.com/a/asphalt_02
 [Pharmacy](https://sketchfab.com/3d-models/pharmacy-b4b5c21b768447529d9d2d7385a68923)
 - Autor: [amirsoliman](https://sketchfab.com/amirsoliman)
 - Licencja: CC Attribution
+
+## Znane bugi i ograniczenia
+- Odbicia przednich świateł nadjeżdżającego samochodu na renderze trochę się "rozmywają" na mokrym asfalcie.
