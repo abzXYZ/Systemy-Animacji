@@ -27,7 +27,7 @@ Parametry do zmiany:
 - Licencja: CC Attribution
 
 [Night Bridge](https://polyhaven.com/a/night_bridge)
-- Autor: [Sergej Majboroda](Sergej Majboroda)
+- Autor: [Sergej Majboroda](https://hdrmarket.com/)
 - Licencja: CC0
 
 [Withered Grass](https://polyhaven.com/a/withered_grass)
