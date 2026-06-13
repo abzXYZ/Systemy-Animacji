@@ -4,7 +4,8 @@
 Animacja przedstawia perspektywę osoby wracającej do domu podczas deszczowej nocy we wschodnioeuropejskim mieście. Chciałem osiągnąć znajomy i spokojny klimat.
 
 ## Uruchomienie
-Pobrać wszystkie pliki, a następnie otworzyć w Blenderze plik `assets/scena.blend`.
+Pobrać wszystkie pliki, a następnie otworzyć w Blenderze plik `assets/scena.blend`.\
+Aby wyrenderować animację należy dostosować ścieżkę do pliku wynikowego w ustawieniach Output Properties, a następnie kliknąć kombinację przycisków Ctrl i F12, lub na górnym pasku narzędziowym wybrać Render → Render Animation.
 
 ## Opis skryptu Python
 Skrypt Python `animacja.py` wykorzystany został do animacji migotania neonu (znaku apteki). Po uruchomieniu usuwa on animacje przypisane do materiału neonu, a następnie dodaje klatki kluczowe z mrugnięciami o losowej intensywności w losowych odstępach czasu.\
